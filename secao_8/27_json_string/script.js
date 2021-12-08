@@ -14,5 +14,5 @@ let pessoaJSON = JSON.parse(pessoaTexto); //mudando string de volta para JSON
 
 console.log(pessoaJSON);
 
-console.log(pessoaJSON.hobbies);
+console.log(pessoaJSON.hobbies); //por ser objeto novamente, pode acessar atributos
 console.log(pessoaJSON.hobbies[1]);
