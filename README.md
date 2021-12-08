@@ -7,3 +7,4 @@ Seção 4 - Estruturas de Programação
 Seção 5 - Exercícios sobre Estruturas de Programação
 Seção 6 - Funções
 Seção 7 - Exercícios sobre Fuunções
+Seção 8 - Arrays e Objetos

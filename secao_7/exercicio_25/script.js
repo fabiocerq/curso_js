@@ -2,6 +2,7 @@ function numeroPar(num) {
     for (let i = num; i >= 0; i--) {
         if ((num - i) % 2 == 0) {
             console.log(num - (num - i) - 1);
+            //poderia ser console.log(i - 1);
         }
     }
 }
