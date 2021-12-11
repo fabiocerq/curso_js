@@ -8,4 +8,4 @@ let produtos = 'Banana;Maça;Pizza;Yogurt;Celular'
 
 console.log(produtos.split(";")); //como o separador é ; deve ser inserido como parâmetro
 
-//split dividi array com base no parâmetro entregue
+//split divide array com base no parâmetro entregue
