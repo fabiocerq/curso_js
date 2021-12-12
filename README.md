@@ -6,5 +6,7 @@ Seção 3 - Exercícios sobre Tipos de Dados
 Seção 4 - Estruturas de Programação
 Seção 5 - Exercícios sobre Estruturas de Programação
 Seção 6 - Funções
-Seção 7 - Exercícios sobre Fuunções
+Seção 7 - Exercícios sobre Funções
 Seção 8 - Arrays e Objetos
+Seção 9 - Exercícios sobre Arrays e Objetos
+Seção 10 - Conceitos de Orientação a Objetos
