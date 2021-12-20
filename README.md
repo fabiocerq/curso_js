@@ -10,3 +10,4 @@ Seção 7 - Exercícios sobre Funções
 Seção 8 - Arrays e Objetos
 Seção 9 - Exercícios sobre Arrays e Objetos
 Seção 10 - Conceitos de Orientação a Objetos
+Seção 11 - Exercícios sobre Orientação a Objetos
