@@ -12,3 +12,4 @@ Seção 9 - Exercícios sobre Arrays e Objetos
 Seção 10 - Conceitos de Orientação a Objetos
 Seção 11 - Exercícios sobre Orientação a Objetos
 Seção 12 - Debugs e Erros no Javascript
+Seção 13 - Expressões Regulares
