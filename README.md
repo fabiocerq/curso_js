@@ -15,3 +15,4 @@ Seção 12 - Debugs e Erros no Javascript
 Seção 13 - Expressões Regulares
 Seção 14 - Exercício sobre Expressões Regulares
 Seção 15 - Programação Assíncrona
+Seção 16 - JavaScript e o Navegador
