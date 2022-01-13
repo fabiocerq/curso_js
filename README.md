@@ -17,3 +17,4 @@ Seção 14 - Exercício sobre Expressões Regulares;
 Seção 15 - Programação Assíncrona;
 Seção 16 - JavaScript e o Navegador;
 Seção 17 - Eventos com JavaScript;
+Seção 18 - Projeto 1: Jogo da Velha;
