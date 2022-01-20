@@ -218,7 +218,7 @@ console.log(tenis.productWithDiscount(50));
 console.log('-------')
 
 //9 - Herança de Classes
-console.log('8 - Classes')
+console.log('9 - Herança de Classes')
 
 class ProductWithAttributes extends Product {
     constructor(name, price, colors) {
