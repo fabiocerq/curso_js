@@ -20,3 +20,5 @@ Seção 17 - Eventos com JavaScript;
 Seção 18 - Projeto 1: Jogo da Velha;
 Seção 19 - Aprendendo Node.js;
 Seção 20 - Projeto com Node, Express, Sequelize: Job Finder;
+Seção 21 - Projeto Quizz com vanilla JS (Manipulação e evento de DOM);
+Seção 22 - JavaScript ES6;
